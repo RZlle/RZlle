@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m Rozzelle, a passionate Software Developer, QA, and Cybersecurity enthusiast.<br><br>🎯 My goal is to become a versatile engineer capable of developing, testing, and securing software at every level.<br>🌱 I’m currently learning Python, SQL, CI/CD pipelines, and participating in CTFs to sharpen my cybersecurity skills.<br>📚 I enjoy solving real-world problems, mentoring peers, and collaborating in agile teams.
+I’m Rozzelle, a passionate Software Developer, QA, and Cybersecurity enthusiast.<br><br>🎯 My goal is to become a versatile engineer capable of developing, testing, and securing software at every level.<br>📚 I enjoy solving real-world problems, mentoring peers, and collaborating in agile teams.
 
 
 ## 🌐 Socials:
